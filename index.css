@@ -10,7 +10,7 @@ main{
     margin: auto;
 }
 nav{
-    margin: 0 auto; 
+    margin: 0 auto;
 }
 .ndiv{
     height: 200px;
@@ -86,10 +86,10 @@ span{
     color: #eb5757;
     padding: 0 4px 0 4px;
 }
-a{
+header a{
     transition: all;
 }
-a:hover{
+header a:hover{
     letter-spacing: 4px;
     background-color:white;
     border-radius: 10%;
