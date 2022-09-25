@@ -10,7 +10,7 @@ main{
     margin: auto;
 }
 nav{
-    margin: 0 auto;
+    margin: 0 auto; 
 }
 .ndiv{
     height: 200px;
@@ -33,7 +33,7 @@ a{
     color: black;
 }
 .article1{
-    margin: -10px 0px 30px 33.33px
+    margin: 45px 0px 30px 33.33px
 }
 .article1 div{
     width: 74px;
@@ -83,7 +83,8 @@ section{
 }
 span{
     background-color: #ededed;
-    color: #eb5757
+    color: #eb5757;
+    padding: 0 4px 0 4px;
 }
 a{
     transition: all;
@@ -93,4 +94,9 @@ a:hover{
     background-color:white;
     border-radius: 10%;
     padding: 3px;
+}
+.red{
+    background-color: #ededed;
+    color: #eb5757;
+    padding: 0 4px 0 4px;
 }
